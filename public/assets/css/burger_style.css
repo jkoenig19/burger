@@ -1,0 +1,40 @@
+body {
+    margin-top: 28px;
+    background-color: lightgreen;
+}
+
+#burger_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.burger_list {
+    display: inline-block;
+    text-align: center;
+    height: 56px;
+    width: 250px;
+    background-color: white;
+}
+
+.devour_burger {
+    margin-left: 16px;
+}
+
+.devoured_list {
+    color: grey;
+    background-color: white;
+}
+
+.create-form {
+    text-align: center;
+}
+
+#burger {
+    padding-top: 28px;
+}
